@@ -10,6 +10,9 @@ _rednerItem=({item}) => {
             <Text>
                 {item.Id}
             </Text>
+            <Text>
+                {item.Fname}
+            </Text>
         </View>
     )
 }

@@ -13,6 +13,9 @@ _rednerItem=({item}) => {
             <Text>
                 {item.Sname}
             </Text>
+            <Text>
+                wellcom to Post Page
+            </Text>
         </View>
     )
 }

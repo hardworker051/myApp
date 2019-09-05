@@ -11,7 +11,7 @@ _rednerItem=({item}) => {
                 {item.Id}
             </Text>
             <Text>
-                {item.Fname}
+                {item.Sname}
             </Text>
         </View>
     )
